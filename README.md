@@ -20,4 +20,4 @@ This function will identify regions of interest in each panel:
 
 ============
 
-Additional sample data can be found [here.] https://www.dropbox.com/t/PHR0ZghFKzXpgFk6
+Additional sample data can be found [here.]https://www.dropbox.com/t/PHR0ZghFKzXpgFk6
